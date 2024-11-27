@@ -151,3 +151,6 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 5. **Access the Frontend on**
    Open `http://localhost:5173` in your browser.
 
+## Contact
+
+Vedant Mehta - mehtavedant8@gmail.com
