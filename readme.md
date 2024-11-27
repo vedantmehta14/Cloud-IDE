@@ -116,7 +116,7 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/SpartaNeel1010/CLOUD-IDE
+   git clone https://github.com/vedantmehta14/Cloud-IDE
    cd cloud-ide
    ```
 
