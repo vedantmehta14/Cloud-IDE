@@ -84,22 +84,22 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 ### AI Assistant - 2
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Screenshot%20(427).png)
 
-## Copy base file from S3 to Project's folder
+### Copy base file from S3 to Project's folder
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-S3-Copy.png)
 
 ### Kubernetes Initial State
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-k8s-inital.png)
 
-## Resource Provisioning API
+### Resource Provisioning API
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-res-proven-api.png)
 
 ### Frontend device and Backend pod connection
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-communication.png)
 
-## Multiple User Collaboration
+### Multiple User Collaboration
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-multiple-users.png)
 
-## Microservices Architecture
+### Microservices Architecture
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-microservices.png)
 
 
