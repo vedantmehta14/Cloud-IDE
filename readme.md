@@ -1,4 +1,3 @@
-
 # Collaborative Cloud IDE
 [Youtube Video](https://www.youtube.com/watch?v=Xwkg_IPgvFg)
 
@@ -7,10 +6,8 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 ## Features
 
 ### 1. **Isolated Coding Environments**
-- Implemented a scalable collaborative online coding platform with multi-user support, similar to Replit, enabling real-time
-  code sharing, and collaboration.
-- Provisioned dedicated pods for each user to ensure an isolated development environment and utilized Kubernetes ingress
-  controllers to dynamically route user-specific requests to corresponding pods.
+- Implemented a scalable collaborative online coding platform with multi-user support, similar to Replit, enabling real-time code sharing and collaboration.
+- Provisioned dedicated pods for each user to ensure an isolated development environment and utilized Kubernetes ingress controllers to dynamically route user-specific requests to corresponding pods.
 
 ### 2. **Real-Time Collaboration**
 - Multiple users can collaborate on the same project in real-time.
@@ -52,6 +49,7 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 - Isolated containers for every user to ensure data privacy and environment independence.
 
 ## Requirements
+
 ### Functional Requirements
 - Multi-user support with unique profiles.
 - Shared coding environments for team projects.
@@ -63,6 +61,7 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 - Smooth performance under heavy traffic.
 
 ## Screenshots
+
 ### Login Page
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Screenshot%202024-11-15%20145525.png)
 
@@ -78,7 +77,7 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 ### Node JS application running
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Screenshot%20(430).png)
 
-### AI Assistant 
+### AI Assistant
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Screenshot%20(426).png)
 
 ### AI Assistant - 2
@@ -102,16 +101,12 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 ### Microservices Architecture
 ![App Screenshot](https://raw.githubusercontent.com/SpartaNeel1010/CLOUD-IDE/refs/heads/main/Images/Arch-microservices.png)
 
-
-
-
-
 ## Installation and Setup
 
 ### Prerequisites
 - AWS account with access to S3 and ECS.
-- Docker installed in your computer
-- MongoDB database database connection
+- Docker installed on your computer.
+- MongoDB database connection.
 
 ### Steps
 1. **Clone the Repository**
