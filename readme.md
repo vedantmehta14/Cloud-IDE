@@ -42,7 +42,7 @@ Welcome to the **Collaborative Cloud IDE**! This project is an online integrated
 - **Database**: MongoDB
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
-- **Cloud Services**: AWS ECS, S3
+- **Cloud Services**: AWS ECS, S3, GCP
 - **AI Integration**: Project-specific coding assistant
 
 ### Scalability
